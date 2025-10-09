@@ -4,7 +4,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Alberto Villalobos V. [22212277]; l22212277@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
